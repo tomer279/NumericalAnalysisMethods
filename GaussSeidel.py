@@ -56,6 +56,7 @@ def gauss_seidel(A: np.matrix, b: np.array, vec: np.array, tol: float, N: int):
     return
 
 
+# implementation of the method
 A = np.matrix([
     [2, -1, 1],
     [2, 2, 4],
