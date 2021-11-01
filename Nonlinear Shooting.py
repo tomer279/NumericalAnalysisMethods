@@ -1,5 +1,3 @@
-# Created by Tomer Caspi
-
 import numpy as np
 
 
