@@ -1,4 +1,3 @@
-# created by Tomer Caspi
 
 import numpy as np
 import matplotlib.pyplot as plt
