@@ -12,7 +12,7 @@ from numpy import linalg as LA
 # Parameters:
 # A -> The coefficient matrix of the equation Ax=b
 # b -> the constant vector b of the equation Ax=b
-# vec -> the initial approximation x^(0) to the method
+# x -> the initial approximation x^(0) to the method
 # tol -> the tolerance of the method based on ||x - x0||_inf < tol
 # N -> number of iterations for the method
 def gauss_seidel(A: np.matrix, b: np.array, x: np.array, tol: float, N: int):
