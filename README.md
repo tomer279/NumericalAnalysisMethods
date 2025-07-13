@@ -1,3 +1,3 @@
 # NumericalAnalysisMethods
 Numerical analysis methods for a university course.
-Suggestions for improving my code are favorable.
+Suggestions for improving my code are welcome.
