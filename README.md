@@ -80,7 +80,6 @@ Contributions are welcome! Please note:
 - Follow PEP 8 style guidelines
 - Include comprehensive docstrings
 - Add type hints where appropriate
-- 
 ## References
 
 Based on "Numerical Analysis" by Burden & Faires, 10th Edition.
