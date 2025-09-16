@@ -11,7 +11,7 @@ A comprehensive collection of numerical analysis methods implemented in Python f
 - **Legacy modules**: Various older implementations with inconsistent naming conventions and documentation
 - **Active development**: Continuously improving code quality, documentation, and adding new methods
 
-## �� Available Methods
+## Available Methods
 
 ### Linear Algebra - Iterative Methods
 **Status: Production Ready**
